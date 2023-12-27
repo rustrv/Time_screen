@@ -13,8 +13,8 @@ def main():
             formatted_time = f"{Fore.RED}{Style.BRIGHT}{current_time}{Style.RESET_ALL}\n"
 
             # Вывод текущего времени на экран
-            #print(formatted_time, end='\r', flush=True)
-            print('11111')
+            print(formatted_time, end='\r', flush=True)
+            #print('11111')
 
 
             # Ожидание 1 секунды
