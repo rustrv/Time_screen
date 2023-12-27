@@ -14,7 +14,7 @@ def main():
 
             # Вывод текущего времени на экран
             print(formatted_time, end='\r', flush=True)
-            print()
+            print('11111')
 
 
             # Ожидание 1 секунды

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26209ea2-4bce-480e-bfa1-6ce2f0448aa6" name="Changes" comment="перемещение новой ниже строки после вывода">
+    <list default="true" id="26209ea2-4bce-480e-bfa1-6ce2f0448aa6" name="Changes" comment="перенос времени каждый раз на новую строку2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -112,8 +112,43 @@
       <option name="project" value="LOCAL" />
       <updated>1703697363099</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="return">
+      <option name="closed" value="true" />
+      <created>1703697953279</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703697953279</updated>
+    </task>
+    <task id="LOCAL-00005" summary="перенос времени каждый раз на новую строку">
+      <option name="closed" value="true" />
+      <created>1703698714566</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703698714566</updated>
+    </task>
+    <task id="LOCAL-00006" summary="перенос времени каждый раз на новую строку2">
+      <option name="closed" value="true" />
+      <created>1703698893078</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703698893078</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -130,6 +165,9 @@
     <MESSAGE value="код для пробы контейнерезации" />
     <MESSAGE value="перемещение новой строки после вывода" />
     <MESSAGE value="перемещение новой ниже строки после вывода" />
-    <option name="LAST_COMMIT_MESSAGE" value="перемещение новой ниже строки после вывода" />
+    <MESSAGE value="return" />
+    <MESSAGE value="перенос времени каждый раз на новую строку" />
+    <MESSAGE value="перенос времени каждый раз на новую строку2" />
+    <option name="LAST_COMMIT_MESSAGE" value="перенос времени каждый раз на новую строку2" />
   </component>
 </project>
