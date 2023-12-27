@@ -14,11 +14,12 @@ def main():
 
             # Вывод текущего времени на экран
             print(formatted_time, end='\r', flush=True)
-            # Добавление символа новой строки
-            formatted_time += '\n'
+
 
             # Ожидание 1 секунды
             time.sleep(1)
+            # Добавление символа новой строки
+            formatted_time += '\n'
 
     except KeyboardInterrupt:
         pass  # Обработка прерывания клавиатуры (например, нажатие Ctrl+C)
