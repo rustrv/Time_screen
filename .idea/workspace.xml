@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26209ea2-4bce-480e-bfa1-6ce2f0448aa6" name="Changes" comment="код для пробы контейнерезации">
-      <change afterPath="$PROJECT_DIR$/.idea/Time_screen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="26209ea2-4bce-480e-bfa1-6ce2f0448aa6" name="Changes" comment="перемещение новой ниже строки после вывода">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +15,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rustrv"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7ff890b8-a815-4c66-9006-a095e94b27e9" />
+        <option name="url" value="https://github.com/rustrv/Time_screen.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -86,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703585201620</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="перемещение новой строки после вывода">
+      <option name="closed" value="true" />
+      <created>1703697251834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703697251834</updated>
+    </task>
+    <task id="LOCAL-00003" summary="перемещение новой ниже строки после вывода">
+      <option name="closed" value="true" />
+      <created>1703697363099</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703697363099</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +128,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="код для пробы контейнерезации" />
-    <option name="LAST_COMMIT_MESSAGE" value="код для пробы контейнерезации" />
+    <MESSAGE value="перемещение новой строки после вывода" />
+    <MESSAGE value="перемещение новой ниже строки после вывода" />
+    <option name="LAST_COMMIT_MESSAGE" value="перемещение новой ниже строки после вывода" />
   </component>
 </project>

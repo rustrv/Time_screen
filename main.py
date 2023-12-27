@@ -19,7 +19,7 @@ def main():
             # Ожидание 1 секунды
             time.sleep(1)
             # Добавление символа новой строки
-            formatted_time += '\n'
+            #formatted_time += '\n'
 
     except KeyboardInterrupt:
         pass  # Обработка прерывания клавиатуры (например, нажатие Ctrl+C)
