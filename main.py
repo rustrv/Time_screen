@@ -10,7 +10,9 @@ def main():
             current_time = time.strftime("%H:%M:%S", time.localtime())
 
             # Форматирование строки с увеличенным размером шрифта и красным цветом
-            formatted_time = f"{Fore.RED}{Style.BRIGHT}{current_time}{Style.RESET_ALL}\n"
+            formatted_time = f"{Fore.RED}{Style.BRIGHT}{current_time}{Style.RESET_ALL}"
+            # Добавление символа новой строки
+            formatted_time += '\n'
 
             # Вывод текущего времени на экран
             print(formatted_time, end='\r', flush=True)
