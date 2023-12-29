@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26209ea2-4bce-480e-bfa1-6ce2f0448aa6" name="Changes" comment="перенос времени каждый раз на новую строку2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="26209ea2-4bce-480e-bfa1-6ce2f0448aa6" name="Changes" comment="перенос времени каждый раз на новую строку2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -151,6 +149,21 @@
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
